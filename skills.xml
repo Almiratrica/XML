@@ -1,0 +1,19 @@
+<xml>
+<skills_of_the_course>
+   	 <skill1>Basic theory SDLC, STLC</skill1>
+   	  <skill2>Client-server architecture</skill2>
+   	   <skill3>HTTP</skill3>
+   	    <skill4>API testing with Postman</skill4>
+   	     <skill5>VPN</skill5>
+   	     <skill6>Mobile tetsing</skill6>
+   	       <skill7>ADB</skill7>
+   	        <skill8>Terminal Linux</skill8>
+   	         <skill9>Bash scripting basics</skill9>
+   	      	 <skill10>SQL basics</skill10>
+   		   <skill11>Postgres database</skill11>,
+   		     <skill12>Non-relational database Redis</skill12>
+   		      <skill13>Load testing in Jmeter</skill13>
+   		       <skill14>Scrum development methodology</skill14>
+   		        <skill15>Python</skill15>
+ </skills_of_the_course>
+</xml>
