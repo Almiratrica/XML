@@ -1,1 +1,11 @@
-
+<xml>
+ <bug_report>
+  <column1>ID</column1>
+   <column2>Title</column2>
+    <column3>Inputs</column3>
+     <column4>Steps</column4>
+      <column5>ER</column5>
+       <column6>AR</column6>
+        <column7>Comment</column7>
+ </bug_report>
+</xml>
